@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Sandoval
-title: 
+title: Mike's Constantly Moving Thoughts
 header-img: img/home-bg.png
 email: msandoval2594@gmail.com
 copyright_name: Michael Sandoval
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Behind The Brain
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  msandoval2594
